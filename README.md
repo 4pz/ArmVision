@@ -4,7 +4,7 @@ ArmVision is an Object Detection program utilizing Artificial Intelligence (AI) 
 
 ## Usage
 
-To release this open source, I very briefly formatted what I had in my Google Colab to Python format. [PLEASE USE THE GOOGLE COLAB FILE IF YOU PLAN ON USING THIS! (FULLWORKING.ipynb)](https://github.com/Simple2006/ArmVision/FULLWORKING.ipynb)
+To release this open source, I very briefly formatted what I had in my Google Colab to Python format. [PLEASE USE THE GOOGLE COLAB FILE IF YOU PLAN ON USING THIS! (FULLWORKING.ipynb)](https://github.com/Simple2006/ArmVision/blob/main/FULLWORKING.ipynb). Just import the dataset provided or use your own dataset in order to use with Google Colab.
 
 ## General Information
 
@@ -23,7 +23,7 @@ Thanks for contributing!
 
 ## Credits
 
-Most of ArmVision is powered by [yolov5s](https://github.com/ultralytics/yolov5). It is an extremely powerful object detection library and I recommend using it!
+Most of ArmVision is powered by [yolov5](https://github.com/ultralytics/yolov5). It is an extremely powerful object detection library and I recommend using it!
 ## Feedback, comments, or questions
 
 If you have any feedback or something you would like to tell me, please
