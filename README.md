@@ -28,6 +28,6 @@ Most of ArmVision is powered by [yolov5](https://github.com/ultralytics/yolov5).
 
 If you have any feedback or something you would like to tell me, please
 do not hesitate to share! Feel free to comment here on github or reach
-out to me through <vinayven01@gmail.com>!
+out to me through <vinay@vinayven.com>!
 
 ©Vinay Venkatesh 2021
